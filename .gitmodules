@@ -1,0 +1,9 @@
+[submodule "exams"]
+	path = exams
+	url = git@github.com:zongzuoscc/exams.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:zongzuoscc/learning-cxx.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:zongzuoscc/learning-lm-rs.git
